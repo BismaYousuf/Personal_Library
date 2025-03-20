@@ -43,7 +43,7 @@ A simple **Streamlit-based** web application to **manage your personal book coll
 
 - **Python** 🐍
 - **Streamlit** 🎈
-- **JSON** (for data storage)
+- **SQLite3** (for data storage)
 
 ## 🤝 Contributing
 
